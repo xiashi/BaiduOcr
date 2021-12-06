@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/work2/Demo/baidu_ocr/app/src/main/res/drawable/dialog_loading_bg.xml" value="0.37743589743589745" />
+        <entry key="..\:/work2/Demo/baidu_ocr/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/work2/Demo/baidu_ocr/app/src/main/res/layout/adapter_filter_image.xml" value="0.3671875" />
+        <entry key="..\:/work2/Demo/baidu_ocr/app/src/main/res/layout/progress_bar_text.xml" value="0.3671875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
